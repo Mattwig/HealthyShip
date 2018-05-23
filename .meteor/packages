@@ -22,4 +22,4 @@ react-meteor-data
 accounts-ui@1.3.0
 accounts-password@1.5.0
 barbatus:typescript
-ecmascript@0.10.0
+ecmascript@0.10.6
